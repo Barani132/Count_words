@@ -1,5 +1,4 @@
 # Count Words
-
 sentence = input("Enter a sentence: ")
 
 words = sentence.split()
